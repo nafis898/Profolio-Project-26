@@ -29,3 +29,14 @@ This project showcases my skills, projects, and provides an easy way to contact 
 ---
 
 ## 📂 Project Structure
+portfolio/
+│
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── assets/
+│ ├── images/
+│ └── icons/
+└── README.md
